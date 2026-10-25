@@ -1,0 +1,17 @@
+{
+  "name": "adv",
+  "owner": {
+    "name": "crussella0129",
+    "url": "https://github.com/crussella0129"
+  },
+  "description": "Marketplace for adv: a one-command way to pair an advisor model with an executor model.",
+  "plugins": [
+    {
+      "name": "adv",
+      "source": "./",
+      "description": "/adv <advisor> [executor] [task]: set the main model and the server-side advisor together, resolving family aliases to the latest model and checking the pairing rule.",
+      "category": "development",
+      "tags": ["advisor", "models", "model-pairing", "productivity"]
+    }
+  ]
+}

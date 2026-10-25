@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# adv plugin
+.claude-plugin/types/
+dist/
+node_modules/
+*.plugin
+.claude/settings.local.json

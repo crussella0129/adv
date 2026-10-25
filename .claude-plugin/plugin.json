@@ -1,0 +1,13 @@
+{
+  "name": "adv",
+  "version": "0.1.0",
+  "description": "Pair a stronger advisor model with an executor in one command: /adv Fable Opus sets the main model and the server-side advisor, using the latest model of each family.",
+  "author": {
+    "name": "Charles Russella",
+    "url": "https://github.com/crussella0129"
+  },
+  "homepage": "https://github.com/crussella0129/adv",
+  "repository": "https://github.com/crussella0129/adv",
+  "license": "MIT",
+  "keywords": ["advisor", "executor", "model", "model-pairing", "advisor-tool", "fable", "opus", "sonnet", "haiku"]
+}

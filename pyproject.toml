@@ -1,0 +1,10 @@
+# Lint/format configuration only; this repo is a Claude Code plugin, not a Python package.
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["advmodels", "resolve", "run"]
